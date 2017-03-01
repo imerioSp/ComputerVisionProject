@@ -1,0 +1,8 @@
+Immagine: TESI21.BMP
+
+Biella: 0 di Tipo A	Area: 5503	Altezza: 194.547	Larghezza: 57.2259	Orientamento: 45.5457°	Posizione del baricentro: [158.26, 157.828]
+Larghezza all'altezza del baricentro: 23.4307
+Foro: 1	Posizione del baricentro: [200.575, 119.768]	Dimensione del foro: 27.8287	
+Biella: 1 di Tipo B	Area: 2717	Altezza: 158.314	Larghezza: 38.9076	Orientamento: 63.435°	Posizione del baricentro: [114.027, 91.6769]
+Larghezza all'altezza del baricentro: 20.1246
+Foro: 1	Posizione del baricentro: [84.4243, 149.674]	Dimensione del foro: 26.1053	Foro: 2	Posizione del baricentro: [137.668, 45.1723]	Dimensione del foro: 28.8609	
